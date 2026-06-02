@@ -8,7 +8,7 @@
 
 This study tests whether the Concentric Value Model (CVM) — a 10-dimension framework for quantitative quality classification of publicly traded firms — produces statistically significant differential forward returns at the firm level and the sector level.
 
-The empirical strategy uses an unbalanced quarterly panel of 200 large-cap firms across 12 industry sectors and 5 geographic regions, observed over 2016-Q1 through 2025-Q4 (40 quarters). The primary analysis is restricted to the US sub-sample (~100 firms) where data quality permits clean per-firm inference. The full 200-firm global panel is used as a robustness check.
+The empirical strategy uses an unbalanced quarterly panel of 200 large-cap firms across 12 industry sectors and 5 geographic regions, observed over 2016-Q1 through 2025-Q4 (40 quarters). The primary analysis is restricted to the US sub-sample (100 firms) where data quality permits clean per-firm inference. The full 200-firm global panel is used as a robustness check.
 
 For each firm-quarter observation, scoring on the 10 CVM dimensions is performed using a Python implementation of the production scoring engine, which itself was validated against the public web tool’s JavaScript engine on 18 reference cases (100% parity). The framework produces a composite score on a 0-100 scale, with quartile assignment based on the sample-wide distribution at each as-of date.
 
@@ -50,7 +50,7 @@ Adjusted close prices, market capitalization, and rolling beta (3-year window vs
 
 ### 2.5 Universe Construction
 
-The 199-firm universe was constructed by selecting 100 largest US S&P 500 firms by market capitalization, 50 European Stoxx + UK FTSE constituents, 30 APAC ex-Japan large-caps, and 20 Japan Nikkei 225 constituents, with ~2.5% tail for sector balance. The universe was finalized after data-availability checks: Fiserv was excluded due to absence in SimFin Start tier bulk data despite multiple ticker variants; Marsh & McLennan was updated to its current ticker MRSH following the 2025 rebrand.
+The 200-firm universe was constructed by selecting 100 largest US S&P 500 firms by market capitalization, 50 European Stoxx + UK FTSE constituents, 30 APAC ex-Japan large-caps, and 20 Japan Nikkei 225 constituents, with ~2.5% tail for sector balance. The universe was finalized after data-availability checks: Fiserv was excluded due to absence in SimFin Start tier bulk data despite multiple ticker variants; Marsh & McLennan was updated to its current ticker MRSH following the 2025 rebrand.
 
 -----
 
