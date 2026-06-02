@@ -1,7 +1,7 @@
 # Concentric Value Model — Empirical Findings
 
 **Document version:** 1.0 (2026-05-31)
-**Status:** Drop-in findings section for DBA thesis empirical chapter or SSRN working paper.
+
 
 -----
 
