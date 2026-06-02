@@ -1,7 +1,6 @@
 # Concentric Value Model — Empirical Methodology
 
 **Document version:** 1.0 (2026-05-31)
-**Status:** Drop-in methodology section for DBA thesis empirical chapter or SSRN working paper. Adjust voice and citation style to target venue.
 
 -----
 
