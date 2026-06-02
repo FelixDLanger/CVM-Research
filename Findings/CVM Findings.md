@@ -259,7 +259,7 @@ This study leaves substantial empirical territory open for follow-up work. We id
 
 ### 7.1 Geographic Generalization
 
-The primary analysis is US-only. The global 199-firm robustness check uses sector-baseline scoring for non-US firms on D6 and D7, limiting interpretation. A natural extension is replication on a paid-data European panel (Refinitiv or Bloomberg coverage of Stoxx 600 or FTSE 350) and an APAC panel (TSE Prime, KOSPI 200, HSI), with per-firm ownership and ESG data of comparable quality to the US sub-sample. This would test whether the sector-allocation finding generalizes beyond the US tech-favorable regime that dominated 2016-2025.
+The primary analysis is US-only. The global 200-firm robustness check uses sector-baseline scoring for non-US firms on D6 and D7, limiting interpretation. A natural extension is replication on a paid-data European panel (Refinitiv or Bloomberg coverage of Stoxx 600 or FTSE 350) and an APAC panel (TSE Prime, KOSPI 200, HSI), with per-firm ownership and ESG data of comparable quality to the US sub-sample. This would test whether the sector-allocation finding generalizes beyond the US tech-favorable regime that dominated 2016-2025.
 
 ### 7.2 Extended Time Horizon
 
