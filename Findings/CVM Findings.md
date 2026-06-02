@@ -144,7 +144,7 @@ The primary specification regresses 1-year forward returns on composite score wi
 
 |Sample                        |Composite Coefficient|p-value    |
 |------------------------------|---------------------|-----------|
-|Global (199 firms, 3,668 obs) |-0.41                |**0.040****|
+|Global (200 firms, 3,668 obs) |-0.41                |**0.040****|
 |US-only (100 firms, 3,260 obs)|-0.33                |0.093*     |
 
 The composite coefficient is *marginally negative* in both samples and statistically significant at p<0.05 in the global panel. Read literally: a 1-point increase in composite score is associated with 0.33-0.41 percentage points *lower* annual forward return, controlling for sector, size, beta, and regime.
