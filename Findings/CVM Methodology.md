@@ -8,7 +8,7 @@
 
 This study tests whether the Concentric Value Model (CVM) — a 10-dimension framework for quantitative quality classification of publicly traded firms — produces statistically significant differential forward returns at the firm level and the sector level.
 
-The empirical strategy uses an unbalanced quarterly panel of 199 large-cap firms across 12 industry sectors and 5 geographic regions, observed over 2016-Q1 through 2025-Q4 (40 quarters). The primary analysis is restricted to the US sub-sample (~100 firms) where data quality permits clean per-firm inference. The full 199-firm global panel is used as a robustness check.
+The empirical strategy uses an unbalanced quarterly panel of 200 large-cap firms across 12 industry sectors and 5 geographic regions, observed over 2016-Q1 through 2025-Q4 (40 quarters). The primary analysis is restricted to the US sub-sample (~100 firms) where data quality permits clean per-firm inference. The full 200-firm global panel is used as a robustness check.
 
 For each firm-quarter observation, scoring on the 10 CVM dimensions is performed using a Python implementation of the production scoring engine, which itself was validated against the public web tool’s JavaScript engine on 18 reference cases (100% parity). The framework produces a composite score on a 0-100 scale, with quartile assignment based on the sample-wide distribution at each as-of date.
 
